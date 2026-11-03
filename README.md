@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SpokeDx/SpokeDx/main/banner.png" width="100%" alt="Header Banner">
+</p>
 Hi 👋, I'm SpokeDx
 Junior Ml-engineer
 <h3 align="left">Connect with me:</h3>
